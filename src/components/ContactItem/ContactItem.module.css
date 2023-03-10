@@ -1,0 +1,19 @@
+.ContactItem {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  font-size: 14px;
+}
+
+.BtnDelete {
+  font-size: 12px;
+  text-align: center;
+  padding: 3px;
+  cursor: pointer;
+  box-shadow: 1px 3px 5px grey;
+  border-radius: 5px;
+  border-color: gray;
+  background-color: white;
+}

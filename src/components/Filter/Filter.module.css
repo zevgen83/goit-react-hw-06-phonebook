@@ -1,0 +1,14 @@
+.LabelFilter {
+  padding: 50px;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.8;
+}
+
+.InputFilter {
+  width: 200px;
+  display: block;
+  font-size: 14px;
+  padding: 5px;
+}
